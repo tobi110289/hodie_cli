@@ -1,5 +1,5 @@
 {
-  "name": "hodie",
+  "name": "hodie_cli",
   "version": "1.0.0",
   "description": "A productivity CLI suite with pomodoro timer, task tracker, and website blocker",
   "main": "src/index.js",
@@ -18,7 +18,7 @@
     "timer",
     "task-tracker"
   ],
-  "author": "Tobias Hund",
+  "author": "Tobias Feltes",
   "license": "MIT",
   "dependencies": {
     "commander": "^11.0.0",
