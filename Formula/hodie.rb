@@ -4,7 +4,7 @@ class Hodie < Formula
   desc "A productivity CLI suite with Pomodoro timer"
   homepage "https://github.com/tobi11089/hodie_cli"
   url "https://github.com/tobi110289/hodie_cli/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  sha256 "837a020b91a79a73393fba8070c84a0b667696900d5557955f5f20aaa0ad76e1"
   license "MIT"
 
   depends_on "node"
