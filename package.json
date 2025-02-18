@@ -1,0 +1,32 @@
+{
+  "name": "hodie",
+  "version": "1.0.0",
+  "description": "A productivity CLI suite with pomodoro timer, task tracker, and website blocker",
+  "main": "src/index.js",
+  "type": "module",
+  "bin": {
+    "hodie": "./src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "productivity",
+    "pomodoro",
+    "timer",
+    "task-tracker"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "inquirer": "^9.2.12",
+    "play-sound": "^1.1.6",
+    "node-notifier": "^10.0.1",
+    "conf": "^12.0.0",
+    "ora": "^8.0.1",
+    "chalk": "^5.3.0"
+  }
+}
