@@ -2,9 +2,9 @@ require "formula"
 
 class Hodie < Formula
   desc "A productivity CLI suite with Pomodoro timer"
-  homepage "https://github.com/yourusername/hodie"
-  url "https://github.com/yourusername/hodie/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "REPLACE_WITH_ACTUAL_SHA256"
+  homepage "https://github.com/tobi11089/homebrew-hodie"
+  url "https://github.com/tobi11089/homebrew-hodie/archive/refs/tags/v1.0.0.tar.gz"
+  sha256 "CALCULATED_SHA256_HASH"
   license "MIT"
 
   depends_on "node"
