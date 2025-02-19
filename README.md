@@ -20,10 +20,10 @@ A productivity command-line interface suite featuring a Pomodoro timer, task tra
 npm install -g hodie
 ```
 
-### Via Homebrew
+### Via Homebrew (requires xcode command line tools)
 
 ```bash
-brew tap yourusername/hodie
+brew tap tobi11089/hodie
 brew install hodie
 ```
 
