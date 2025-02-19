@@ -23,7 +23,7 @@ npm install -g hodie
 ### Via Homebrew (requires xcode command line tools)
 
 ```bash
-brew tap tobi11089/hodie
+brew tap tobi110289/hodie
 brew install hodie
 ```
 
