@@ -1,6 +1,6 @@
 {
   "name": "hodie_cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A productivity CLI suite with pomodoro timer, task tracker, and website blocker",
   "main": "src/index.js",
   "type": "module",
@@ -31,12 +31,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tobi11089/hodie_cli.git"
+    "url": "git+https://github.com/tobi110289/hodie_cli.git"
   },
   "bugs": {
-    "url": "https://github.com/tobi11089/hodie_cli/issues"
+    "url": "https://github.com/tobi110289/hodie_cli/issues"
   },
-  "homepage": "https://github.com/tobi11089/hodie_cli#readme",
+  "homepage": "https://github.com/tobi110289/hodie_cli#readme",
   "engines": {
     "node": ">=18.0.0"
   },
